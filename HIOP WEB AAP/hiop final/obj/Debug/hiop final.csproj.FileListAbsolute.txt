@@ -1,0 +1,70 @@
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\ApplicationInsights.config
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\roslyn\csc.exe
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\roslyn\System.Collections.Immutable.dll
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\roslyn\vbc.exe
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\roslyn\VBCSCompiler.exe
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\roslyn\VBCSCompiler.exe.config
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\hiop final.dll.config
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\hiop final.dll
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\hiop final.pdb
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\Microsoft.AI.Web.dll
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\Microsoft.AI.WindowsServer.dll
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\Microsoft.ApplicationInsights.dll
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\Microsoft.AI.Web.xml
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\Microsoft.AI.WindowsServer.xml
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\Microsoft.ApplicationInsights.xml
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\obj\Debug\hiop final.csprojResolveAssemblyReference.cache
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\obj\Debug\hiop final.dll
+c:\users\hamza\documents\visual studio 2015\Projects\hiop final\hiop final\obj\Debug\hiop final.pdb
+C:\Users\HAMZA\Documents\Visual Studio 2015\Projects\HIOP WEB AAP\hiop final\obj\Debug\hiop final.csprojResolveAssemblyReference.cache
+C:\Users\HAMZA\Documents\Visual Studio 2015\Projects\HIOP WEB AAP\hiop final\obj\Debug\hiop final.dll
+C:\Users\HAMZA\Documents\Visual Studio 2015\Projects\HIOP WEB AAP\hiop final\obj\Debug\hiop final.pdb
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\obj\Debug\hiop final.csprojAssemblyReference.cache
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\obj\Debug\hiop final.dll
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\obj\Debug\hiop final.pdb
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\ApplicationInsights.config
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\roslyn\csc.exe
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\roslyn\vbc.exe
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\roslyn\VBCSCompiler.exe
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\hiop final.dll.config
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\hiop final.dll
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\hiop final.pdb
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\Microsoft.AI.Web.dll
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\Microsoft.AI.Web.xml
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\Microsoft.ApplicationInsights.xml
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SGI\Desktop\HIOP PROJECT\HIOP WEB AAP\hiop final\obj\Debug\hiop final.csproj.CopyComplete

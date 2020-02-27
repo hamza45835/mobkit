@@ -1,0 +1,166 @@
+﻿*{margin: 0px;
+padding: 0px;}
+a
+{
+	text-decoration: none;
+
+	color:white;
+}
+
+
+.{
+	background: url(house.jpg);
+	background-repeat: no-repeat;
+	background-position: 	center;
+	background-size: cover;
+	background-attachment: 	fixed;
+	max-width: 100%;
+	height: 100%;
+	
+}
+
+.img
+{
+	
+	margin-top: -90px;
+	margin-left: 620px;
+	max-width: 100%;
+	height: 100px;
+	width: 150px;
+    border-radius: 50%;
+	
+
+}
+
+.abc table 
+{
+	border: 1px solid white;
+	background-color: 503F3F;	
+	float: left;
+	margin-top: 50px;
+	margin-right: 20px;
+	width: 47%;
+	height: 20px;
+	color: white;
+	text-decoration: none;
+}
+
+.abc th 
+{
+	font: bold 12px segoe ui, sans-serif;
+	color: white;
+	text-align: left;
+	vertical-align: middle;
+	padding: 10px;
+	cursor: pointer;
+	transition: .5s ease-in;
+}
+.abc th:hover{background-color: 51AF49; color: white;transform:scale(1,1.3); transition:.6s ease-in-out;}
+
+.abcd table 
+{
+	border: 1px solid white;
+	background-color: 503F3F;
+	float: right;
+	margin-top: 51px;
+	margin-right: -0px;
+	width: 47%;
+	height: 20px;
+	color: white;
+	list-style: none;
+}
+
+.abcd th 
+{
+	font: bold 12px segoe ui, sans-serif;
+	color: white;
+	text-align: left;
+	vertical-align: middle;
+	transition: .5s ease-in;
+	padding: 10px;
+	cursor: pointer;
+	padding-left: 70px;
+	margin-right: 20px;
+
+}
+.abcd th:hover{background-color: #51AF49; color: white;transform:scale(1,1.3); transition:.6s ease-in-out;}
+.pro :hover{background-color: #DA2E2E; color: white;}
+
+.e:hover{color:#000000;transition:.4s; cursor:pointer;}
+
+.t:hover{color:black; transition:.4s;cursor:pointer;}
+
+
+
+
+.bottom
+{
+	height: 80px;
+	width: 100%;
+	background-color: #64bb73;
+	margin-top: 40px;
+}
+.e
+{
+	float: left;
+	margin-left: 240px;
+	margin-top: 30px;
+	font-size: 20px;
+	color: white;
+}
+.r
+{
+	padding-top: 30px;
+	margin-left: 492px;
+	font-size: 20px;
+	color: white;
+
+
+}
+.t
+{
+	float: right;
+	padding-right: 23%;
+	margin-top: -23px;
+	font-size: 20px;
+	color: white;
+
+}
+t:hover{color:#60d474; transform:scale(2,3) transition:.6s ease-in;}
+.fb
+{
+	height: 100px;
+	width: 100%;
+	color: black;
+	background-color: #535151;
+}
+.y
+{
+	text-align: center;
+	padding-top: 10px;
+	cursor: pointer;
+    font-family:Lucida Sans Unicode;
+    color:white;
+}
+a :hover{background-color: #DA2E2E; color: white;}
+.fn
+{
+	text-align: center;
+	padding-top: 40px;
+	font-style: oblique;
+	font-size: 15px;
+	color: white;
+}
+
+.bodys{
+    background-color:white;
+    height:200px;
+    width:100%;
+}
+
+
+
+
+
+
+

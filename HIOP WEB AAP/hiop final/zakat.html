@@ -1,0 +1,89 @@
+﻿<html>
+<head>
+    <title>HIOP|Humanity is Our Priority</title>
+    <link rel="stylesheet" type="text/css" href="hiopcss.css">
+    <style>
+    .para{
+    background-image: url("Zakat.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    background-size: cover;}
+
+    .zak{border:1px solid white;
+         height:400px;
+         width:700px;
+         background-color:white;
+         margin-left:28%;
+         margin-top:5%;
+         opacity:.8;
+    }
+    .cal{
+        height:215px;
+        width:500px;
+        background-color:#80a575;
+        margin-top:35px;
+        margin-left:13%;
+        
+    }
+
+
+
+
+    </style>
+    <script>
+
+        function zakat(){
+            var number = document.getElementById('number').value;
+            var payment = ((number / 100) * 2.5);
+            payment = payment.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+            document.getElementById('payment').innerHTML = "ZAKAT AMOUNT = RS :" + payment;
+        }
+
+    </script>
+    
+</head>
+<body class="para">
+
+    <div class="abc">
+        <table>
+            <tr>
+                <th><a href="who-we-are.html">Who We Are</a></th>
+                <th>Hierarchy</th>
+                <th><a href="aboutus.html">About Us</a></th>
+            </tr>
+        </table>
+    </div>
+    <div class="abcd">
+        <table>
+            <tr>
+                <th><a href="login-page.aspx">SignIn</a></th>
+                <th><a href="signup.aspx">SignUp</a></th>
+                <th style="background-color:#80a575; color:wheat;"><a href="zakat.html">Zakat Calculator</a></th>
+            </tr>
+        </table>
+    </div>
+    <a href="hiophome.html"><img class="img" src="logo.ico"></a>
+
+    <div class="zak">
+       <p style="text-align:center; font-family:Calibri;font-size:25px;font-weight:bold;padding-top:10px;padding-left:40px;padding-right:40px;"> This is exactly what Islam teaches us. Islam is not only a religion but a complete way of life. To succeed in the motto of making the world a better place and helping others, Islam has always emphasized on charity or Zakat.
+        </p>
+        <div class="cal">
+            <marquee style="font-weight:bold;font-size:20px;color:white;">ENTER YOUR DESIRED AMOUNT TO CALCULATE ZAKAT</marquee>
+            <p style="margin-top:20px;margin-left:27%;font-weight:bolder;font-size:19px;">ENTER YOUR AMOUNT: <input type="number" id="number" name="name" value="" onchange="zakat()" style="height:40px; width:220px;"/> </p>
+            <input type="button" style="height:30px; width:100px; margin-left:38%; margin-top:3%;"  /><p style="margin-left:38.5%;margin-top:-5%;">CALCULATE</p>
+            <h2 id="payment" style="text-align:center;margin-top:7%;"></h2>
+
+
+        </div>
+    </div>
+    
+
+
+
+
+</body>
+
+
+</html>

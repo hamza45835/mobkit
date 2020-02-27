@@ -1,0 +1,106 @@
+<html>
+<head>
+    <title>HOMAGE | Tribute to good living</title>
+    <link rel="stylesheet" type="text/css" href="hiopcss.css">
+    <link rel="stylesheet" type="text/css" href="wow sliders.html">
+
+
+
+
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Made with WOW Slider - Create beautiful, responsive image sliders in a few clicks. Awesome skins and animations. Image carousel" />
+
+    <!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+    <link rel="stylesheet" type="text/css" href="engine1/style.css" />
+    <script type="text/javascript" src="engine1/jquery.js"></script>
+    <!-- End WOWSlider.com HEAD section -->
+</head>
+<body>
+
+    <div class="abc">
+        <table>
+            <tr>
+                <th><a href="products.html">Who We Are</a></th>
+                <th><a href="wtb.html">Hierarchy</a></th>
+                <th><a href="cc.html">About Us</a></th>
+            </tr>
+        </table>
+    </div>
+    <div class="abcd">
+        <table>
+            <tr>
+                <th><a href="nm.html">SignIn</a></th>
+                <th><a href="http://rni.com.pk">SignUp</a></th>
+                <th><a href="cu.html">Zakat Calculator</a></th>
+            </tr>
+        </table>
+    </div>
+    <a href="home.html"><img class="img" src="logo.ico"></a>
+    </div>
+    <body style="background-color:;margin:auto">
+
+        <!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+        <div class="slider">
+            <div id="wowslider-container1">
+                <div class="ws_images">
+                    <ul>
+                        <li><img src="data1/second1.jpg" alt="" title="" id="wows1_0" /></li>
+                        <li><a href="http://wowslider.com/vf"><img src="data1/second2.jpg" alt="full screen slider" t id="wows1_1" /></a></li>
+                        <li><img src="data1/second3.jpg" alt="" title="" id="wows1_2" /></li>
+                    </ul>
+                </div>
+                <div class="ws_bullets">
+                    <div>
+                        <a href="#" title=""><img src="data1/tooltips/second1.jpg" alt="" />1</a>
+                        <a href="#" title=""><img src="data1/tooltips/second2.jpg" alt="full screen slider" />2</a>
+                        <a href="#" title=""><img src="data1/tooltips/second3.jpg" alt="" />3</a>
+                    </div>
+                </div><span class="wsl"><a href="http://wowslider.com/vu">image carousel</a> by WOWSlider.com v7.4</span>
+                <div class="ws_shadow"></div>
+            </div>
+            <script type="text/javascript" src="engine1/wowslider.js"></script>
+            <script type="text/javascript" src="engine1/script.js"></script>
+        </div>
+        <!-- End WOWSlider.com BODY section -->
+
+        <div class="qq">
+            <h1><a href="home.html">Families Serverd Till yet : 105</a></h1><h2><a href="elc.html">Average per Months</a></h2>
+        </div>
+        <div class="icon1"><img src="icon2.png"></div>
+        <div class="icon2"><img src="icon1hover.png"></div>
+        <div class="para">Homage offers you a wide variety of Microwaves, Dispensers and Induction Cookers to add to the luxury of your kitchens. <br> Sift through our ranges and choose what suits you the best.</div>
+        <div class="kimg"></div>
+        <div class="kimg-bd">
+            <h1>Families Serverd Till yet</h1>
+            <p class="fonts">Satisfy your modern taste with our high-quality and easy-to-use home appliances designed to look chic and improvise your kitchen chores.</p>
+        </div>
+        </div>
+        <div class="ku">
+            <h2>Families Serverd Till yet</h2>
+            <p class="fontsb">Building the kitchen of your dreams? Look through our variety of kitchen appliances and make your pick for a good living with Homage!</p>
+        </div>
+        <div class="sec">
+            <div class="video">
+                <iframe width="720" height="480" src="https://www.youtube.com/embed/QEH0cookPjg" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <div class="sec2">
+                <h1>WHERE TO BUY</h1>
+                <img src="capture.png">
+            </div>
+            <div class="bottom">
+                <div class="e"><p>Complain:021-111-764-111</p></div>
+                <div class="r"><p><a href="https://www.facebook.com/Homage-Pakistan-133002570119598/?fref=ts"> Follow Us:@FACEBOOK</a></p></div>
+                <p class="t"><a href="http://rni.com.pk">EMAIL:info@rni.com.pk</a></p>
+            </div>
+            <div class="fb">
+                <p class="y">HOME | PRODUCTS | WHERE TO BUY | NEWS & MEDIA | CUSTOMER CARE | CAREER | CONTACT US | FAQ</p>
+                <p class="fn">HOMAGE IS A REGISTERED TRADEMARK OF R&I ELECTRICAL APPLIANCES PVT. LTD<br> © COPYRIGHT 2016 HOMAGE.PK. ALL RIGHTS RESERVED. POWERED BY Hamza&Jahanzaib KHAN</p>
+
+            </div>
+
+
+
+
+    </body>
+
+
